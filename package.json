@@ -1,8 +1,8 @@
 {
-  "homepage": "https://finnmacd.github.io",
   "name": "finnmacd.github.io",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://finnmacd.github.io",
   "dependencies": {
     "npm": "^6.0.1",
     "react": "^16.3.2",
