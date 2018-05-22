@@ -2,7 +2,7 @@
   "name": "finnmacd.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://finnmacdonald.com/website",
+  "homepage": "https://finnmacdonald.com",
   "dependencies": {
     "npm": "^6.0.1",
     "react": "^16.3.2",
