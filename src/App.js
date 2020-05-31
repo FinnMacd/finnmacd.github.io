@@ -9,7 +9,7 @@ class App extends Component {
         return (
             <div className>
                 <Layout fixedHeader>
-                    <Header title={<span style={{ color: '#ddd' }}>Title</span>} scroll>
+                    <Header className='header-color' title={<span style={{ color: '#ddd' }}>Title</span>} scroll>
                         <Navigation>
                             <Link to="/resume">Resume</Link>
                             <Link to="/aboutme">About Me</Link>
