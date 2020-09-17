@@ -96,6 +96,7 @@ class Project extends Component {
                         <h1>This is yhava</h1>
                     </div>
                 )
+            default:
         }
 
     }
